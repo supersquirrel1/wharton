@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "whartoninvest",
+  "private_key_id": "f941c5e04e812467a4c83cf305338d54a41b6e27",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD1xfsM5aYkE5OI\n1slvBNlL14ZAm5FRkUeLFKzWhQZcjJpBgNxhXMJjdbtuYLvxvmOEC50QwA7yO5Rx\n1KRxJN/51J3q5Ek+YJVnKPo2yh+oVAmqTjga35IB9gJ/si8+wh9mpYZ18GXyixBB\ntrtf8igPuyEm7MjMe6Hww/oB3iO95AsM+BPavMaqGZqnueFoMCVP6mV/fpDJAHYd\n7XRfk5HmEYYI3jvjwk7diC0nLC4GCWGZbfCpomINl9JafgSYfy44FtCGZY8+UYWE\nOHb6hMmuMpAUXx/ga7EQ7YA2oeH7DMLcl/QfNbghI5KSkvoGv/B1THYlyIMhgVec\nRNNAiOBRAgMBAAECggEAF/Q9ZULmwAJmcUJZ7Keg1CsD6z0eW0BZJD2WIOxjM9cC\nW9sG37huO8poQ7hK6SNgyKhnHRBTBJn4/GU4x8xLxipKX+/zEZDRTvYn+PoXPs0+\nCerIvhnHPciv8qk3wJqj+9mrMsiE7zBNm9IHDjFoZSwcbZJLed6c6H35WoA/pIyp\n/85rsVAJmwjyCv5coaWrreJ9divppsw6fNkPL/wNDargjDzUhpbx6mxxsrXViAZR\nTJ6DYoIOV0+PT582k64cXugsYofh33iLIREe45NRQZHstb4JIJ7qXb9B9GvKndHn\n7aGxR4yiO1OyXJUXLTAjHG/GbzEm1Gntv9DUx8fQtwKBgQD7Uq79lujrpXwkN4TV\nY3xicH8SM+1Bxmbu/Pbwv8OIm2RxdKOVn9Tj4/uTV7Fs/UXjke4qzK/TPulyjzg1\ndqjU8DLzu/8J95UE15af3XwEigRt+hh2SmaQDy4G/NqqlsA/k6mIY+BJfBcvM7c+\n0Hv25pYi1wo+6eYREUhUftq2EwKBgQD6WNvA44zhU9Pn5wDHpPuwS1K+VnlUMR2I\nxNdU84vxGIA5YuXLD3dTtvHajP0Ez/BOjyGrQBA96iil7HoAyx7UCjU1rRKPe2wu\nh4y9p+WwNHb7+0QAoThemcKIDCjD8RzuEmuHWyY6kIf7ZXP/kwi/R9u+YMZmyDf5\nn3aMuChsiwKBgBtN0FUcoBF52RLWNUg5lrnbHvMLUStkMqqkMO/W5ZdhynfJBDyt\nMKPRkPNhA5WjroQaxpU/x5pbq2EWzjSAv7bioaZ5NiwPCdGM2oBjv6V+mRyZny66\nxonAHHAF6HvABQLjN/fpYeSZ5qrqI25fmBgq1QTT9/j90FDqX8FORtShAoGBAMR1\nkw6OA/KX/EWSjJQfrrwsgCSKa/BcEtdP0cQC1CFBnu5p4/c0jeoOOUHPPofWPrkH\nrd5cCeLsrTV4nE2fGPRBhnw288fRjZX+Hb5/0cozgeRAzJ7J5hinBXgKQrtxrchO\ngD/akeeHoI7ykNNRqZ2iYJnIDCqAmRy1vSy1IFP9AoGBAJ8wL/9LbpNB7IqZ0GlO\ndqmPt+67ip1f1QQJlJXgQk6hmAxfLSr3bw+pKr2Co2tKFpTftuqdtCM0WJO/hjFW\ngHBiMY9k6UWvmsRh3l0q3UqBFDIjU+73SPE6DxoOdHYnjvN/mrBaZJ98OnLeoP6U\n3bdMn5fiBOhdqpTmLFOeQAi9\n-----END PRIVATE KEY-----\n",
+  "client_email": "botmaster@whartoninvest.iam.gserviceaccount.com",
+  "client_id": "112088255760703902430",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/botmaster%40whartoninvest.iam.gserviceaccount.com"
+}
